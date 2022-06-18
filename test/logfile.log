@@ -1,0 +1,93 @@
+2022-06-01 10:18:32,017 :INFO :test_homepage :First Name is Victor
+2022-06-01 10:18:32,075 :INFO :test_homepage :Email is aa@gmail.com
+2022-06-01 10:18:32,713 :INFO :test_homepage :Gender is Male
+2022-06-01 10:18:37,496 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:18:37,496 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:18:37,516 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:18:37,516 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:18:38,255 :INFO :test_homepage :Gender is Female
+2022-06-01 10:18:38,255 :INFO :test_homepage :Gender is Female
+2022-06-01 10:20:01,295 :INFO :test_e2e :getting all the products titles
+2022-06-01 10:20:01,318 :INFO :test_e2e :iphone X
+2022-06-01 10:20:01,324 :INFO :test_e2e :Samsung Note 8
+2022-06-01 10:20:01,331 :INFO :test_e2e :Nokia Edge
+2022-06-01 10:20:01,337 :INFO :test_e2e :Blackberry
+2022-06-01 10:20:02,514 :INFO :test_e2e :Entering country name as ind
+2022-06-01 10:20:09,688 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-01 10:21:53,879 :INFO :test_homepage :First Name is Victor
+2022-06-01 10:21:53,910 :INFO :test_homepage :Email is aa@gmail.com
+2022-06-01 10:21:54,643 :INFO :test_homepage :Gender is Male
+2022-06-01 10:21:58,635 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:21:58,635 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:21:58,654 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:21:58,654 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:21:59,382 :INFO :test_homepage :Gender is Female
+2022-06-01 10:21:59,382 :INFO :test_homepage :Gender is Female
+2022-06-01 10:22:39,988 :INFO :test_e2e :getting all the products titles
+2022-06-01 10:22:40,009 :INFO :test_e2e :iphone X
+2022-06-01 10:22:40,015 :INFO :test_e2e :Samsung Note 8
+2022-06-01 10:22:40,020 :INFO :test_e2e :Nokia Edge
+2022-06-01 10:22:40,025 :INFO :test_e2e :Blackberry
+2022-06-01 10:22:41,928 :INFO :test_e2e :Entering country name as ind
+2022-06-01 10:22:49,077 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-01 10:29:50,681 :INFO :test_homepage :First Name is Victor
+2022-06-01 10:29:50,719 :INFO :test_homepage :Email is aa@gmail.com
+2022-06-01 10:29:51,401 :INFO :test_homepage :Gender is Male
+2022-06-01 10:29:55,696 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:29:55,696 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:29:55,716 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:29:55,716 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:29:56,457 :INFO :test_homepage :Gender is Female
+2022-06-01 10:29:56,457 :INFO :test_homepage :Gender is Female
+2022-06-01 10:31:00,058 :INFO :test_e2e :getting all the products titles
+2022-06-01 10:31:00,079 :INFO :test_e2e :iphone X
+2022-06-01 10:31:00,085 :INFO :test_e2e :Samsung Note 8
+2022-06-01 10:31:00,091 :INFO :test_e2e :Nokia Edge
+2022-06-01 10:31:00,097 :INFO :test_e2e :Blackberry
+2022-06-01 10:31:01,992 :INFO :test_e2e :Entering country name as ind
+2022-06-01 10:31:09,154 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-01 10:41:29,280 :INFO :test_homepage :First Name is Victor
+2022-06-01 10:41:29,351 :INFO :test_homepage :Email is aa@gmail.com
+2022-06-01 10:41:29,462 :INFO :test_homepage :Gender is Male
+2022-06-01 10:41:29,991 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:41:29,991 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:41:30,044 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:41:30,044 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:41:30,150 :INFO :test_homepage :Gender is Female
+2022-06-01 10:41:30,150 :INFO :test_homepage :Gender is Female
+2022-06-01 10:42:00,693 :INFO :test_e2e :getting all the products titles
+2022-06-01 10:42:00,712 :INFO :test_e2e :iphone X
+2022-06-01 10:42:00,721 :INFO :test_e2e :Samsung Note 8
+2022-06-01 10:42:00,730 :INFO :test_e2e :Nokia Edge
+2022-06-01 10:42:00,738 :INFO :test_e2e :Blackberry
+2022-06-01 10:42:00,866 :INFO :test_e2e :Entering country name as ind
+2022-06-01 10:42:06,254 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-01 10:43:43,079 :INFO :test_homepage :First Name is Victor
+2022-06-01 10:43:43,140 :INFO :test_homepage :Email is aa@gmail.com
+2022-06-01 10:43:43,832 :INFO :test_homepage :Gender is Male
+2022-06-01 10:43:48,199 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:43:48,199 :INFO :test_homepage :First Name is Karen
+2022-06-01 10:43:48,226 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:43:48,226 :INFO :test_homepage :Email is ff@gmail.com
+2022-06-01 10:43:48,970 :INFO :test_homepage :Gender is Female
+2022-06-01 10:43:48,970 :INFO :test_homepage :Gender is Female
+2022-06-01 10:44:37,207 :INFO :test_e2e :getting all the products titles
+2022-06-01 10:44:37,229 :INFO :test_e2e :iphone X
+2022-06-01 10:44:37,236 :INFO :test_e2e :Samsung Note 8
+2022-06-01 10:44:37,241 :INFO :test_e2e :Nokia Edge
+2022-06-01 10:44:37,246 :INFO :test_e2e :Blackberry
+2022-06-01 10:44:39,146 :INFO :test_e2e :Entering country name as ind
+2022-06-01 10:44:46,102 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-01 11:50:24,557 :INFO :test_homepage :First Name is Karen
+2022-06-01 11:50:24,615 :INFO :test_homepage :Email is 22@ff.com
+2022-06-01 11:50:57,202 :INFO :test_homepage :First Name is Kkattia
+2022-06-01 11:50:57,253 :INFO :test_homepage :Email is 22@ff.com
+2022-06-01 11:50:57,344 :INFO :test_homepage :Gender is Female
+2022-06-01 11:51:19,518 :INFO :test_homepage :First Name is Victor
+2022-06-01 11:51:19,566 :INFO :test_homepage :Email is 11@ff.com
+2022-06-01 11:51:19,656 :INFO :test_homepage :Gender is Male

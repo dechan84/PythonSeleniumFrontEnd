@@ -1,0 +1,28 @@
+1653945138241	geckodriver	INFO	Listening on 127.0.0.1:54882
+1653945141310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victo\\AppData\\Local\\Temp\\rust_mozprofileSEvpe0"
+1653945142022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\victo\\AppData\\Local\\Temp\\rust_mozprofileSEvpe0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54883/devtools/browser/d792aec6-12a7-4540-a613-edb21e08c827
+1653945144013	Marionette	INFO	Listening on port 54913
+Read port: 54913
+1653945144101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1653945167832	Marionette	INFO	Stopped listening on port 54913
+Invalid port. Exiting...
+Invalid port. Exiting...
+1653945603033	geckodriver	INFO	Listening on 127.0.0.1:55533
+1653945606090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\victo\\AppData\\Local\\Temp\\rust_mozprofile0ySJbw"
+1653945606526	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\victo\\AppData\\Local\\Temp\\rust_mozprofile0ySJbw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55534/devtools/browser/570a242f-f894-48a2-a87f-4fcff1fc8861
+1653945608437	Marionette	INFO	Listening on port 55562
+Read port: 55562
+1653945608543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1653945651741	Marionette	INFO	Stopped listening on port 55562

@@ -1,0 +1,5 @@
+Testing/archive
+Testing/__pycache__
+Testing/pytest_html_report.html
+__pycache__/
+*json
